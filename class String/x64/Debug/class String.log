@@ -1,0 +1,26 @@
+﻿  class String.cpp
+D:\Проекты\class String\class String.cpp(29,18): warning C4267: =: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+D:\Проекты\class String\class String.cpp(121,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\class String\class String.cpp(177,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Проекты\class String\class String.cpp(179,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\class String\class String.cpp(183,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\class String\class String.cpp(193,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Проекты\class String\class String.cpp(195,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\class String\class String.cpp(209,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\class String\class String.cpp(211,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\class String\class String.cpp(222,40): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\class String\class String.cpp(226,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\class String\class String.cpp(249,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\class String\class String.cpp(268,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\class String\class String.cpp(289,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Проекты\class String\class String.cpp(319,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\class String\class String.cpp(350,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\class String\class String.cpp(359,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\class String\class String.cpp(369,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\class String\class String.cpp(371,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\class String\class String.cpp(384,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\class String\class String.cpp(386,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\class String\class String.cpp(397,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\class String\class String.cpp(404,15): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\class String\class String.cpp(420,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  class String.vcxproj -> D:\Проекты\class String\x64\Debug\class String.exe
